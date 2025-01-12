@@ -1,7 +1,7 @@
 /* hard :: typescript */
 /*
-    My solution uses a TrieNode structure. Whenever we reach a node for the first time,
-    we will create a new node ( new Map ) right before proceeding.
+    My solution uses a TrieNode structure. Whenever we reach a node for the first
+    time, we will create a new node ( new Map ) right before proceeding.
     - -                   - -
     Time  :: O(N) ::    335ms
     Space :: O(N) :: 114.45MB
