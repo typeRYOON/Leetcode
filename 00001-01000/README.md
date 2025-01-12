@@ -56,6 +56,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00238](https://leetcode.com/problems/product-of-array-except-self/) | [Product Of Array Except Self](00201-00300/00238-product-of-array-except-self.cpp) | `Prefix-Sum` | Medium |  
 | [00242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](00201-00300/00242-valid-anagram.cpp) | `Hashmap` | Easy |  
 | [00268](https://leetcode.com/problems/missing-number/) | [Missing Number](00201-00300/00268-missing-number.cpp) | `Bit-Hacks` | Easy |  
+| [00326](https://leetcode.com/problems/power-of-three/) | [Power Of Three](00301-00400/00326-power-of-three.cpp) | `Math` | Easy |  
 | [00338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](00301-00400/00338-counting-bits.cpp) | `Bit-Hacks` | Easy |  
 | [00342](https://leetcode.com/problems/power-of-four/) | [Power Of Four](00301-00400/00342-power-of-four.cpp) | `Bit-Hacks` | Easy |  
 | [00344](https://leetcode.com/problems/reverse-string/) | [Reverse String](00301-00400/00344-reverse-string.cpp) | `String` | Easy |  
@@ -82,6 +83,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00791](https://leetcode.com/problems/custom-sort-string/) | [Custom Sort String](00701-00800/00791-custom-sort-string.cpp) | `Hashmap` | Medium |  
 | [00832](https://leetcode.com/problems/flipping-an-image/) | [Flipping An Image](00801-00900/00832-flipping-an-image.cpp) | `Array` | Easy |  
 | [00876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle Of The Linked List](00801-00900/00876-middle-of-the-linked-list.cpp) | `Linked-List` | Easy |  
+| [00916](https://leetcode.com/problems/word-subsets/) | [Word Subsets](00901-01000/00916-word-subsets.cpp) | `Subset` | Medium |  
 | [00930](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Binary Subarrays With Sum](00901-01000/00930-binary-subarrays-with-sum.cpp) | `Hashmap` | Medium |  
 | [00961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N Repeated Element In Size 2N Array](00901-01000/00961-n-repeated-element-in-size-2n-array.cpp) | `Hashmap` | Easy |  
 | [00977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares Of A Sorted Array](00901-01000/00977-squares-of-a-sorted-array.cpp) | `Two-Pointers` | Easy |  
