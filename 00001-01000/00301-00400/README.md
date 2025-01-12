@@ -6,6 +6,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [00326](https://leetcode.com/problems/power-of-three/) | [Power Of Three](00326-power-of-three.cpp) | `Math` | Easy |  
 | [00338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](00338-counting-bits.cpp) | `Bit-Hacks` | Easy |  
 | [00342](https://leetcode.com/problems/power-of-four/) | [Power Of Four](00342-power-of-four.cpp) | `Bit-Hacks` | Easy |  
 | [00344](https://leetcode.com/problems/reverse-string/) | [Reverse String](00344-reverse-string.cpp) | `String` | Easy |  
